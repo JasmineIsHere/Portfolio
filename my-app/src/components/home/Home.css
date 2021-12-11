@@ -1,0 +1,41 @@
+.Home{
+    display: flex;
+    justify-content: space-evenly;
+    height: 100vh;
+}
+
+.left-text{
+    flex: 1;
+    padding: 100px;
+}
+
+.left-text-wrapper{
+    padding: 1000px;
+}
+
+.title{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    padding: 10px;
+}
+.subtitle{
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    padding: 10px;
+}
+.text{
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.button-group{
+    padding: 10px;
+    flex: auto;
+}
+.button{
+    padding: 10px;
+}
+.right-pic{
+    flex: 2;
+}
